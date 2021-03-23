@@ -1,7 +1,7 @@
 # Build and deploy your first machine learning web app
 #### A beginner’s guide to train and deploy machine learning pipelines in Python using PyCaret
 
-Read the complete post: https://medium.com/@moez_62905/build-and-deploy-your-first-machine-learning-web-app-280c53d3800a
+Read the complete post: https://www.kdnuggets.com/2020/05/build-deploy-machine-learning-web-app.html
 
 - Official Website : https://www.pycaret.org
 
